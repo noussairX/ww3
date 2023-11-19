@@ -1,0 +1,12 @@
+.content{
+    background-color: aqua;
+    color:rgb(9, 9, 9);
+    padding: 30px;
+}
+.content h2{
+    margin: 20PX;
+    font: 30px;
+}
+.content p{
+    margin: 20px;
+}
